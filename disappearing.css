@@ -1,0 +1,22 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    width:1000px;
+}
+.lax{
+    width:200px;
+    margin:20px;
+    position:static;
+}
+button{
+    background-color:black;
+    border:none;
+    border-radius:5px;
+    width:100px;
+    height:40px;
+    color:yellow;
+    margin:auto;
+    display:block;
+}
